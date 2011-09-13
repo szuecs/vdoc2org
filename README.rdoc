@@ -11,9 +11,9 @@ MacOS X >= 10.6
 
 == INSTALL
 
-% curl -LO http://userpage.fu-berlin.de/sszuecs/files/vdoc2org.app.zip
-% unzip vdoc2org.app.zip
-% sudo mv vdoc2org.app /Applications/
+    % curl -LO http://userpage.fu-berlin.de/sszuecs/files/vdoc2org.app.zip
+    % unzip vdoc2org.app.zip
+    % sudo mv vdoc2org.app /Applications/
 
 == AUTHORS
 
