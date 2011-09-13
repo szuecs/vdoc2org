@@ -1,0 +1,24 @@
+= Vdoc2Org
+home :: https://github.com/szuecs/vdoc2org
+
+== DESCRIPTION
+Vdoc2Org is a converter application. It converts Voodoopad documents to Emacs Org-Mode files.
+For importing Voodoopad documents you have to convert them to xml using Voodoopad yourself.
+
+== REQUIREMENTS
+
+MacOS X >= 10.6
+
+== INSTALL
+
+% curl -LO http://userpage.fu-berlin.de/sszuecs/files/vdoc2org.app.zip
+% unzip vdoc2org.app.zip
+% sudo mv vdoc2org.app /Applications/
+
+== AUTHORS
+
+Sandor Szücs, sandor.szuecs@fu-berlin.de
+  
+== LICENSE
+
+See LICENSE file.
